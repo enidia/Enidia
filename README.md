@@ -6,7 +6,7 @@
 - Diffusion Model (Drawing pictures like a Artist)
 - Generative Adversarial Network (hopely not read in chinese "GAN")
 ---
-###🌱 I’m currently learning ...
+### 🌱 I’m currently learning ...
 - <font color="#EFBFEF">Graph Convolutional Network</font>
 ---
 - 💞️ I’m looking to collaborate on Game Designing (If may, I wanna be a Game Designer)
