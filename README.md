@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Enidia
 - 👀 I’m interested in ...
----
       **[Computer Vision]****[Artifical Intelligence]****[Nature Language Processing]**[Diffusion Model and GAN][Linux][Python] 
----
 - 🌱 I’m currently learning ...
 ---
       **[Graph Convolutional Network]**
