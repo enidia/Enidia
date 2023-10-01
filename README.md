@@ -1,12 +1,12 @@
 ### 👋 Hi, I’m @Enidia
 ### 👀 I’m interested in:
-<font color=#EFEFBF>
-- Computer Vision (CV not means Ctrl+C & Ctrl+V)
+
+- <font color=#EFEFBF>Computer Vision (CV not means Ctrl+C & Ctrl+V)</font>
 - Artifical Intelligence (AI is not terminator)
 - Nature Language Processing (N L P)
 - Diffusion Model (Drawing pictures like a Artist)
 - Generative Adversarial Network (hopely not read in chinese "GAN")
-</font>
+
 ---
 ### 🌱 I’m currently learning
 - <font color=#EFBFEF>Graph Convolutional Network</font>
