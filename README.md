@@ -1,15 +1,16 @@
-- 👋 Hi, I’m @Enidia
-- 👀 I’m interested in ...
-      **[Computer Vision]****[Artifical Intelligence]****[Nature Language Processing]**[Diffusion Model and GAN][Linux][Python] 
-- 🌱 I’m currently learning ...
+### 👋 Hi, I’m @Enidia
+### 👀 I’m interested in:
+- Computer Vision (CV not means Ctrl+C & Ctrl+V)
+- Artifical Intelligence (AI is not terminator)
+- Nature Language Processing (N L P)
+- Diffusion Model (Drawing pictures like a Artist)
+- Generative Adversarial Network (hopely not read in chinese "GAN")
 ---
-      **[Graph Convolutional Network]**
+###🌱 I’m currently learning ...
+- <font color="#EFBFEF">Graph Convolutional Network</font>
 ---
-- 💞️ I’m looking to collaborate on ...
-      still considering...
-- 📫 How to reach me ...
-      here
-
+- 💞️ I’m looking to collaborate on Game Designing (If may, I wanna be a Game Designer)
+- 📫 How to reach me (Misty now)
 <!---
 Enidia/Enidia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
