@@ -1,6 +1,7 @@
 ### 👋 Hi, I’m @Enidia
 ### 👀 I’m interested in:
 
+- Defferential Privacy while using AI
 - Computer Vision (CV not means Ctrl+C & Ctrl+V)
 - Artifical Intelligence (AI is not the terminator)
 - Nature Language Processing (N L P)
